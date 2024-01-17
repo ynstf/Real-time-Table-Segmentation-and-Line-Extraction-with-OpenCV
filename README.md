@@ -2,6 +2,10 @@
 
 This repository contains a Python script for detecting lines in tables using OpenCV. The script uses techniques such as edge detection, Hough Line Transform, and k-means clustering to identify and draw horizontal and vertical lines in an input image.
 
+
+![cases extraction](https://github.com/ynstf/Real-time-Table-Segmentation-and-Line-Extraction-with-OpenCV/assets/107154559/8c41f1b7-9df5-4a1a-ac17-4fd1052ce9f8)
+
+
 ## Features
 
 - Detects and visualizes horizontal and vertical lines in tables.
